@@ -9,6 +9,10 @@ Video: (Following soon)
 
 #Setup
 ##Prerequisite:
+### Install FLAC
+sudo apt-get update
+
+sudo apt-get install flac -y
 ###Install pip
 
 wget https://bootstrap.pypa.io/get-pip.py
