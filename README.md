@@ -18,11 +18,11 @@ sudo python get-pip.py
 
 ###Install these using pip:
 ### Wolframalpha
-pip install wolframalpha  
+sudo pip install wolframalpha  
 
   (From https://pypi.python.org/pypi/wolframalpha)
 ### SpeechRecognition
-pip install SpeechRecognition
+sudo pip install SpeechRecognition
 
   (From https://pypi.python.org/pypi/SpeechRecognition/)
 
@@ -37,7 +37,7 @@ Get files:
 
   cd SpeechPi
 
-  chmod -R 777 *
+  chmod -R +x *
 
 #Configure Wolframalpha
 You will need a Wolframa. API-Key!
