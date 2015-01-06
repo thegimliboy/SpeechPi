@@ -8,7 +8,7 @@ echo
 echo "		----------->Wait for Key<-----------"
 read
 
-arecord /opt/speechscript/input.wav -D hw:1,0 -f S16_LE -d 5
+arecord /tmp/input.wav -D hw:1,0 -f S16_LE -d 5
 aplay /opt/speechscript/blib.wav
 input=$(python /opt/speechscript/main_speech.py)
 output=$(python /opt/speechscript/queryprocess.py $input)
@@ -27,6 +27,6 @@ echo =======================
 echo
 echo
 
-rm /opt/speechscript/input.wav
+rm /tmp/input.wav
 
 done
