@@ -17,7 +17,7 @@ chmod +x Install_SpeechPi.sh
 
 sudo ./Install_SpeechPi.sh
 
-When you are using the script you can skip to Configure-Wolframalpha
+Skip to Configure-Wolframalpha
 ##Prerequisite:
 ### Install FLAC
 sudo apt-get update
