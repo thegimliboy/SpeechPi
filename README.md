@@ -3,7 +3,7 @@
 SpeechPi
 ========
 #What's SpeechPi?
-SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (You will not need a API-Key for this ;D )
+SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (You will not need an Google API-Key for this ;D )
 
 Video: (Following soon)
 
@@ -30,12 +30,12 @@ sudo pip install SpeechRecognition
 
 Get files:
 
-1. git clone https://github.com/thegimliboy/SpeechPi.git
+git clone https://github.com/thegimliboy/SpeechPi.git
 
 
-  cd SpeechPi
+cd SpeechPi
 
-  chmod -R +x *
+chmod -R +x *
 
 #Configure Wolframalpha
 You will need a Wolframalpha API-Key!
@@ -49,12 +49,12 @@ Choose any Application Name...
 
 
 
-Put it in your “queryprocess.py”, you will see where exactly!(Use nano speechscript/queryprocess.py to edit it)
+Put it in “speechscript/queryprocess.py”, you will see where exactly!(Use nano speechscript/queryprocess.py to edit it)
 
 #Move files:
-sudo cp -R speechscript /opt/ ##Move folder "speechscript" to /opt/ 
+sudo cp -R speechscript /opt/
 
-sudo cp -R bin/* /usr/local/bin ##Move these files to /usr/local/bin
+sudo cp -R bin/* /usr/local/bin
 
 # Your installation is complete
 
@@ -63,6 +63,7 @@ speech2wra	:And then ask Wolframalpha something!
 
 text2speech "Text"	:Lets the Pi output your text!
 
+I know this is not much info, but you can watch the Video!
 
 
 #Thanks to
