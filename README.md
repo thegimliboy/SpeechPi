@@ -38,7 +38,7 @@ Get files:
   chmod -R +x *
 
 #Configure Wolframalpha
-You will need a Wolframa. API-Key!
+You will need a Wolframalpha API-Key!
 Get it here: http://products.wolframalpha.com/api
 
 Put it in your “queryprocess.py”, you will see where exactly!
