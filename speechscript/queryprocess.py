@@ -5,7 +5,7 @@ import sys
 
 # Get a free API key here http://products.wolframalpha.com/api/
 # This is a fake ID, go and get your own, instructions on my blog.
-app_id='YOUR KEY HERE'
+app_id='HERE'
 
 client = wolframalpha.Client(app_id)
 
