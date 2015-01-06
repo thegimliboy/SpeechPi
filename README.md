@@ -41,6 +41,8 @@ Get files:
 You will need a Wolframalpha API-Key!
 Get it from here: https://developer.wolframalpha.com/portal/apisignup.html (Alternate Link http://products.wolframalpha.com/api)
 
+You don't have to confirm their E-Mail!
+
 Put it in your “queryprocess.py”, you will see where exactly!
 
 #Move files:
