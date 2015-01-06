@@ -32,7 +32,7 @@ Get files:
 
 1. git clone https://github.com/thegimliboy/SpeechPi.git
 
-2.wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
+ALTERNATIVE WAY 2.wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
 
   unzip master.zip SpeechPi
 
