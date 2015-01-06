@@ -41,6 +41,7 @@ mv bin/* /usr/local/bin ##Move these files to /usr/local/bin
 
 #Usage
 speech2wra	:And then ask Wolframalpha something!
+
 text2speech "Text"	:Lets the Pi output your text!
 
 
