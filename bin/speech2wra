@@ -5,7 +5,7 @@ do
 
 echo
 echo
-echo "		----------->Wait for Key<-----------"
+echo "		----------->Press any Key<-----------"
 read
 
 arecord /opt/speechscript/input.wav -D hw:1,0 -f S16_LE -d 5
