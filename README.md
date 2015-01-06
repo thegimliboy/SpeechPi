@@ -8,7 +8,13 @@ SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (Y
 Video: (Following soon)
 
 #Setup
-By the Way, there is an automatic install script: http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
+By the Way, there is an automatic install script:
+
+wget http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
+
+chmod +x Install_SpeechPi.sh
+
+sudo ./Install_SpeechPi.sh
 
 When you are using the script you can skip to Configure-Wolframalpha
 ##Prerequisite:
