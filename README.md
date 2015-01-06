@@ -8,6 +8,7 @@ SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (Y
 Video: (Following soon)
 
 #Setup
+By the Way, there is an automatic install script: http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
 ##Prerequisite:
 ### Install FLAC
 sudo apt-get update
