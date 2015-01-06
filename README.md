@@ -52,7 +52,7 @@ Choose any Application Name...
 Put it in your “queryprocess.py”, you will see where exactly!(Use nano speechscript/queryprocess.py to edit it)
 
 #Move files:
-mv speechscript /opt/ ##Move folder "speechscript" to /opt/ 
+sudo mv speechscript /opt/ ##Move folder "speechscript" to /opt/ 
 
 mv bin/* /usr/local/bin ##Move these files to /usr/local/bin
 
