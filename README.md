@@ -39,7 +39,7 @@ Get files:
 
 #Configure Wolframalpha
 You will need a Wolframalpha API-Key!
-Get it here: http://products.wolframalpha.com/api
+Get it from here: https://developer.wolframalpha.com/portal/apisignup.html (Alternate Link http://products.wolframalpha.com/api)
 
 Put it in your “queryprocess.py”, you will see where exactly!
 
