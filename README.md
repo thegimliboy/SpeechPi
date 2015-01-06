@@ -43,7 +43,13 @@ Get it from here: https://developer.wolframalpha.com/portal/apisignup.html (Alte
 
 You don't have to confirm their E-Mail!
 
-Put it in your “queryprocess.py”, you will see where exactly!
+When they redirected you to the "Developer Portal" klick on the button "Get an AppID"
+
+Choose any Application Name...
+
+
+
+Put it in your “queryprocess.py”, you will see where exactly!(Use nano speechscripts/queryprocess.py to edit it)
 
 #Move files:
 mv speechscrips /opt/ ##Move folder "speechscripts" to /opt/ 
