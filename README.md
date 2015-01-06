@@ -16,8 +16,6 @@ wget http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
 chmod +x Install_SpeechPi.sh
 
 sudo ./Install_SpeechPi.sh
-
-Skip to Configure-Wolframalpha
 ##Prerequisite:
 ### Install FLAC
 sudo apt-get update
