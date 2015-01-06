@@ -3,7 +3,7 @@
 SpeechPi
 ========
 #What's SpeechPi?
-SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (You will not need an Google API-Key for this ;D )
+SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (You won't need a Google API-Key for this ;D )
 
 Video: (Following soon)
 
