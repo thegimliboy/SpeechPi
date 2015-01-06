@@ -32,9 +32,6 @@ Get files:
 
 1. git clone https://github.com/thegimliboy/SpeechPi.git
 
-ALTERNATIVE WAY 2.wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
-
-  unzip master.zip SpeechPi
 
   cd SpeechPi
 
