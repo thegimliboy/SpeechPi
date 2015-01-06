@@ -7,7 +7,7 @@ SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (Y
 
 Video: (Following soon)
 
-#You need:
+#Prerequisite:
 Install pip (https://pip.pypa.io/en/latest/installing.html)
 
 wget https://bootstrap.pypa.io/get-pip.py
