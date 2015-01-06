@@ -7,6 +7,9 @@ echo
 echo
 echo "		----------->Press RETURN<-----------"
 read
+echo ==============================
+echo "You can start speaking now!"
+echo ==============================
 
 arecord /tmp/input.wav -D hw:1,0 -f S16_LE -d 5
 aplay /opt/speechscript/blib.wav
