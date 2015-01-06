@@ -29,6 +29,7 @@ sudo pip install SpeechRecognition
 #Main Setup:
 
 Get files:
+
 1. git clone https://github.com/thegimliboy/SpeechPi.git
 
 2.wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
