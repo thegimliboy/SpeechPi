@@ -5,7 +5,7 @@ do
 
 echo
 echo
-echo "		----------->Press any Key<-----------"
+echo "		----------->Press RETURN<-----------"
 read
 
 arecord /tmp/input.wav -D hw:1,0 -f S16_LE -d 5
