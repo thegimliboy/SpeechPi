@@ -54,7 +54,9 @@ Put it in your “queryprocess.py”, you will see where exactly!(Use nano speec
 #Move files:
 sudo mv speechscript /opt/ ##Move folder "speechscript" to /opt/ 
 
-mv bin/* /usr/local/bin ##Move these files to /usr/local/bin
+sudo mv bin/* /usr/local/bin ##Move these files to /usr/local/bin
+
+# Your installation is complete
 
 #Usage
 speech2wra	:And then ask Wolframalpha something!
