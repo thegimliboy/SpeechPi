@@ -18,10 +18,12 @@ sudo python get-pip.py
 
 ###Install these using pip:
 ### Wolframalpha
-pip install pip install wolframalpha  
-(From https://pypi.python.org/pypi/wolframalpha)
+pip install wolframalpha  
+
+  (From https://pypi.python.org/pypi/wolframalpha)
 ### SpeechRecognition
 pip install SpeechRecognition
+
   (From https://pypi.python.org/pypi/SpeechRecognition/)
 
 #Main Setup:
