@@ -9,6 +9,8 @@ Video: (Following soon)
 
 #Setup
 By the Way, there is an automatic install script: http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
+
+When you are using the script you can skip to Configure-Wolframalpha
 ##Prerequisite:
 ### Install FLAC
 sudo apt-get update
