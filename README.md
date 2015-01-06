@@ -8,6 +8,7 @@ SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (Y
 Video: (Following soon)
 
 #Setup
+##Script
 By the Way, there is an automatic install script:
 
 wget http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
