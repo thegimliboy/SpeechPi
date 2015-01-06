@@ -1,0 +1,20 @@
+while :
+do
+	#!/bin/bash
+
+	echo "What do you want me to say?"
+	read -e say
+        /opt/speechscript/old_text2speech.sh "$say"
+echo
+echo
+echo =================================
+echo =================================
+	echo "You wanted me to say: $say"
+echo =================================
+echo =================================
+echo "To exit type CTRL+C"
+echo 
+echo
+
+
+done
