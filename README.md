@@ -63,7 +63,7 @@ Choose any Application Name...
 
 
 
-Put it in “speechscript/queryprocess.py”, you will see where exactly!(Use nano speechscript/queryprocess.py to edit it)
+Put it in “speechscript/queryprocess.py”(If you are using the script its "/home/pi/SpeechStuff/speechscript/queryprocess.py), you will see where exactly!(Use nano speechscript/queryprocess.py to edit it)
 
 #Move files:
 sudo cp -R speechscript /opt/
