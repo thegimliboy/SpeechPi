@@ -23,10 +23,12 @@ https://pypi.python.org/pypi/SpeechRecognition/
 #Setup:
 
 Get files:
-wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
-unzip master.zip SpeechPi
-cd SpeechPi
-chmod -R 777 *
+1. git clone https://github.com/thegimliboy/SpeechPi.git
+
+2.wget https://github.com/thegimliboy/SpeechPi/archive/master.zip
+  unzip master.zip SpeechPi
+  cd SpeechPi
+  chmod -R 777 *
 
 #Configure Wolframalpha
 You will need a Wolframa. API-Key!
