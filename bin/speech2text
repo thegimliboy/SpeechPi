@@ -14,18 +14,16 @@ echo ==============================
 arecord /tmp/input.wav -D hw:1,0 -f S16_LE -d 5 > /dev/null
 aplay /opt/speechscript/blib.wav > /dev/null
 input=$(python /opt/speechscript/main_speech.py)
-output=$(python /opt/speechscript/queryprocess.py $input)
 
 /opt/speechscript/old_text2speech.sh "$input" > /dev/null
-/opt/speechscript/old_text2speech.sh "$output" > /dev/null
+
 
 clear
 
 echo
 echo
 echo =======================
-echo "Me: $input?"
-echo "Robot: $output!"
+echo "Me: $input"
 echo =======================
 echo
 echo
