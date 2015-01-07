@@ -17,6 +17,10 @@ chmod +x Install_SpeechPi.sh
 
 sudo ./Install_SpeechPi.sh
 ##Prerequisite:
+### Install mplayer
+sudo apt-get update
+
+apt-get install mplayer
 ### Install FLAC
 sudo apt-get update
 
