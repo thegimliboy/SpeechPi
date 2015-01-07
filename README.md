@@ -5,7 +5,7 @@ SpeechPi
 #What's SpeechPi?
 SpeechPi is an easy to use Speech Recognition Client using Google's SpeechAPI (You won't need a Google API-Key for this ;D )
 
-Video: (Following soon)
+You can edit my Scripts with nano and create your own version... For example edit the script to create a file and write in what you said... So you can create your own voice commands... In my script speech2wra for example I used SpeechPi to connect to WolframAlpha and answer me... Just take a look...
 
 #Setup
 ##Script
