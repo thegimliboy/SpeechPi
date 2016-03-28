@@ -11,7 +11,7 @@ You can edit my Scripts with nano and create your own version... For example edi
 ##Script
 By the Way, there is an automatic install script:
 
-wget http://www.gimliboy.de/bash_scripts/Install_SpeechPi.sh
+wget http://cdn.gimliboy.de/bash_scripts/Install_SpeechPi.sh
 
 chmod +x Install_SpeechPi.sh
 
